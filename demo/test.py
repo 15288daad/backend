@@ -1,2 +1,2 @@
 # hello world!
-printIn('hello world')
+print('hello world')
